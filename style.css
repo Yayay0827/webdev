@@ -3,13 +3,19 @@ h1{
     background-color: white;
     width: fit-content;
     text-align: center;
-
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: "Brush Script MT", Times, serif;
 }
 #titlediv{
     display: flex;
     justify-content: center;
     align-items: center;
     width: 100%;
+    background-color: white;
+    padding: 10px;
 }
 p{
     color: rgb(0, 0, 0);
@@ -22,7 +28,7 @@ p{
     width: fit-content;
 }
 body{
-    background-image: url(catghost.png);
+    background-image: url(Black_and_White_floor_tile.jpg);
     cursor: url("slugcat_cursor.png"), default;
     /* just change the cursor.ico path to your location */
     
