@@ -1,0 +1,27 @@
+h1{
+    color: black;
+    background-color: white;
+    width: fit-content;
+    text-align: center;
+
+}
+#titlediv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+p{
+    color: blueviolet;
+    margin: 100px;
+    border-style: double;
+    border-color: rgb(255, 0, 0);
+    border-width: 10px;
+    padding: 10px;
+}
+body{
+    background-image: url(catghost.png);
+    cursor: url("slugcat_cursor.png"), default;
+    /* just change the cursor.ico path to your location */
+    
+}
