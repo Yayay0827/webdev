@@ -12,12 +12,14 @@ h1{
     width: 100%;
 }
 p{
-    color: blueviolet;
+    color: rgb(0, 0, 0);
     margin: 100px;
     border-style: double;
-    border-color: rgb(255, 0, 0);
+    border-color: rgb(0, 0, 0);
     border-width: 10px;
     padding: 10px;
+    background-color: white;
+    width: fit-content;
 }
 body{
     background-image: url(catghost.png);
